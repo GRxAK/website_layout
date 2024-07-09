@@ -1,0 +1,10 @@
+<svg width="220" height="220" viewBox="0 0 220 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="110" cy="110" r="110" fill="white"/>
+<path d="M69.2549 111.078V145.588L110.235 165L151.216 145.588V111.078H69.2549Z" fill="#BEDAD9"/>
+<path d="M151.216 117.549V145.588L110.235 165L69.2549 145.588V117.549" stroke="#248380" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M110.235 113.235V165" stroke="#248380" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M52 108.921L92.9804 128.333L110.235 113.235V111.078L69.2549 91.6665L52 106.765V108.921Z" fill="white" stroke="#248380" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M168.471 108.921L127.49 128.333L110.235 113.235V111.078L151.216 91.6665L168.471 106.765V108.921Z" fill="white" stroke="#248380" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M52 74.4118L92.9804 55L110.235 70.098V72.2549L69.2549 91.6667L52 76.5686V74.4118Z" fill="white" stroke="#248380" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M168.471 74.4118L127.49 55L110.235 70.098V72.2549L151.216 91.6667L168.471 76.5686V74.4118Z" fill="white" stroke="#248380" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round"/>
+</svg>
